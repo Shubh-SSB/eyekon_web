@@ -11,7 +11,7 @@ const HeroSection = () => {
             <div className="absolute bottom-8 left-0 h-px w-full bg-white/40" />
             <div
                 aria-hidden="true"
-                className="absolute inset-0 m-4 bg-[url('/Images/brown-eye.png')] bg-cover bg-center sm:m-8"
+                className="absolute inset-0 m-4 bg-[url('/Images/Brown-eye.png')] bg-cover bg-center sm:m-8"
             />
             <div
                 aria-hidden="true"
